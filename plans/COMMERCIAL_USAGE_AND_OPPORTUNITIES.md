@@ -43,7 +43,7 @@ The current application supports:
   neural experiments when PyTorch is installed.
 
 See the [README](../README.md), [product feature plan](PRODUCT_FEATURE_PLAN.md),
-and [Worker B product-feature handoff](updates_b/product-features/07-handoff-and-commands.md)
+and [Worker B product-feature handoff](updates_b/02-teaching-and-review.md#commands-and-recovery)
 for setup commands and implementation details.
 
 ## Potential users and use cases
@@ -161,7 +161,7 @@ collaboration, or hosted availability.
   estimates when a matching, valid calibration artifact exists.
 - Do not adopt the internal-stem-edit experiment as the default learner: its
   preregistered evaluation rejected default adoption. See the
-  [experiment decision](updates_b/feature-4/03-results-and-decision.md).
+  [experiment decision](updates_b/03-internal-edit-experiment.md#results-and-decision).
 
 ### Security and operations
 

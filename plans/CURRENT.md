@@ -34,7 +34,7 @@ Completed tracks:
 - Optional attention/GRU adaptation and replay with deterministic CPU resume tests. Small pilot runs did not beat symbolic learners.
 - Source-only real-language glossing with a first Lezgi development result of 72.2% exact word glosses, versus 68.6% memory and 69.9% spelling analogy.
 - Equivalent bulk loading, indexed analogy/rule inference, and incremental rule ranking, validated against the original engine. [Performance evidence](../reports/gloss/performance/README.md).
-- Reproducible source-only gloss evaluation, accurate annotation budgets, atomic session checkpoints, and interrupted/resumed experiments. [Worker B handoff](updates_b/2026-10-24-07-handoff-and-commands.md).
+- Reproducible source-only gloss evaluation, accurate annotation budgets, atomic session checkpoints, and interrupted/resumed experiments. [Worker B handoff](updates_b/01-evaluation-and-resume.md#commands-and-recovery).
 
 Next: choose the next research milestone separately; publication does not start
 the deferred internal-stem-edit experiment. Core-code fingerprints intentionally reject continuation of

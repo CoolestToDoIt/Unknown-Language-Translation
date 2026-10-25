@@ -36,10 +36,10 @@ translation is a separate future scope. All features below are planned.
   changes. Do not treat uncalibrated scores as confidence percentages.
 
 Worker B's implementation, completed checklist, test results and commands are in
-[the product-feature handoff](updates_b/product-features/07-handoff-and-commands.md).
+[the product-feature handoff](updates_b/02-teaching-and-review.md#commands-and-recovery).
 The completed product-feature branch passed 129 tests. The subsequently approved
 Feature 4 experiment passes 146 combined tests and is complete with a rejected
 default-adoption decision. Its protocol, completed checklist and results are in
-[the experiment notes](updates_b/feature-4/01-plan-and-frozen-protocol.md) and
-[handoff](updates_b/feature-4/04-handoff-and-commands.md).
+[the experiment notes](updates_b/03-internal-edit-experiment.md#frozen-protocol) and
+[handoff](updates_b/03-internal-edit-experiment.md#commands-and-recovery).
 No default-model promotion is authorized by the experiment request.

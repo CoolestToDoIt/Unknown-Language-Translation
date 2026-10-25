@@ -16,8 +16,8 @@ matched its uninterrupted comparison.
 - [Tsez summary](tsez-prefix-v3/summary.md), [metrics](tsez-prefix-v3/results.json),
   [manifest index](tsez-prefix-v3/manifest-index.json), [verification](tsez-prefix-v3/verification.json).
 - [Real-corpus resume verification](resume-verification.json).
-- [Interpretation and limits](../../../plans/updates_b/2026-10-24-06-development-matrix-results.md).
-- [Commands and implementation handoff](../../../plans/updates_b/2026-10-24-07-handoff-and-commands.md).
+- [Interpretation and limits](../../../plans/updates_b/01-evaluation-and-resume.md#development-results).
+- [Commands and implementation handoff](../../../plans/updates_b/01-evaluation-and-resume.md#commands-and-recovery).
 
 Whole-source duplicates are removed before online selection; the first annotation
 is retained and conflicts/exclusions are recorded. These are ordered prefix

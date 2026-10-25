@@ -18,8 +18,8 @@ good correctness calibration; this does not establish better language understand
 - [Lezgi summary](lezgi-v1/summary.md) and [full report](lezgi-v1/results.json).
 - [Tsez summary](tsez-v1/summary.md) and [full report](tsez-v1/results.json).
 - [Saved-artifact reconstruction and real CLI verification](verification.json).
-- [Plain-language interpretation](../../../plans/updates_b/product-features/06-development-results.md).
-- [Implementation and commands](../../../plans/updates_b/product-features/07-handoff-and-commands.md).
+- [Plain-language interpretation](../../../plans/updates_b/02-teaching-and-review.md#development-results).
+- [Implementation and commands](../../../plans/updates_b/02-teaching-and-review.md#commands-and-recovery).
 
 Unknown-first review concentrates errors into fewer word annotations in these
 prefixes. Equal sentence budgets have different word costs, which are reported.

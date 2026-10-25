@@ -14,7 +14,7 @@ repeat/conflict accounting, separate first/probe/retention/recall metrics,
 sentence/word feedback budgets, actual top-five candidates, declared AUC ranges,
 model-call timing, and stream/resume/report CLI controls. Session archives are
 immutable and checksummed, with an atomic pointer manifest and bounded retries
-for transient Windows locks. See [Worker B's handoff](../updates_b/2026-10-24-07-handoff-and-commands.md).
+for transient Windows locks. See [Worker B's handoff](../updates_b/01-evaluation-and-resume.md#commands-and-recovery).
 
 The branches merged without conflicts on `integration/gloss-workstreams` at
 `6713c3f`. Review reproduced an orphan temporary pointer after a partial manifest
